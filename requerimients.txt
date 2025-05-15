@@ -1,0 +1,9 @@
+pandas
+   numpy
+   scipy
+o, si usas matplotlib en tus scripts de Python:
+
+   pandas
+   numpy
+   scipy
+   matplotlib
