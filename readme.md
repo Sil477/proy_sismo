@@ -9,7 +9,7 @@
    * Determinar el momento (día, hora, minuto, segundo) de cada sismo detectado. [cite: 13]
 
    ## 2. Estructura del Proyecto
-
+<pre>
 MiProyectoSismico/
 ├── README.md           (Este archivo)
 ├── data/               (Datos)
@@ -28,7 +28,7 @@ MiProyectoSismico/
 ├── notebooks/          (Exploración)
 │   └── exploracion.ipynb
 └── requirements.txt    (Dependencias)
-
+</pre>
 
 ## 3. Datos
 
